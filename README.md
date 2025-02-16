@@ -35,7 +35,7 @@ python aijobmatcher.py
 1. Upload your resume (PDF format)
 2. Enter job search parameters:
    - Job title (e.g., "Software Engineer")
-   - Location (e.g., "San Francisco, CA")
+   - Location (e.g., "New York, NY")
    - Number of jobs to analyze
 3. Review the analysis results in the console and exported CSV file
 
