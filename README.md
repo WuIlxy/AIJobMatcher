@@ -22,6 +22,9 @@ This tool helps job seekers analyze their resumes against job postings by:
 pip install streamlit requests beautifulsoup4 pandas scikit-learn PyPDF2 python-dotenv openai
 ```
 
+2. Set up your OpenAI API key
+   - Replace OpenAIKey in the code with your actual key
+
 2. Run the script:
 ```
 python aijobmatcher.py
